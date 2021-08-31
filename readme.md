@@ -18,7 +18,7 @@
 
 **模型结构**
 
-![arch](/Users/oldbulb/PycharmProjects/domain_translation/arch.png)
+![arch](https://raw.githubusercontent.com/oldbulb/domain_translation/master/arch.png)
 
 
 
